@@ -1,0 +1,74 @@
+
+   
+Example: 
+
+Input: gustar
+
+output: 
+
+verb_deck = {
+    indicative: {
+        "present": {     
+            "yo": "gusto"
+            "tu": "gustas",
+            "el,ella,ud".: "gusta",
+            "nosotros: "gustamos",
+            "vosotros": "gustáis",
+            "ellos/ellas/Uds": "gustan", 
+        },
+
+        "preterite": {
+            "yo": "gusté"
+            tu gustaste
+            el,ella,ud. gustó
+            nosotros gustamos
+            vosotoros gustateis
+            ellos,ellas,uds gustaron
+        },
+
+        "imperfect" : {
+            yo gustaba
+            tu gustabas
+            el,ella,ud gustaba
+            nosotros gustábamos
+            vosotoros gustabais
+            ellso,ellas,uds gustaban
+        },
+
+        "conditional": {
+            yo gustariá
+            tu gustarías
+            el,ella,ud gustaría
+            nosotros gustaríamos
+            vosotros gustaríais
+            ellos,ellas,uds gustarían
+        },
+        
+        "future" : {
+            yo gustaré
+            tu gustarás
+            él,ella,ud. gustará
+            nosotros gustaremos
+            vosotros gustaréis
+            ellos,ellas,uds gustarán
+        }
+    },
+
+    subjuncitve: {
+       ...
+    },
+
+    imperative: {
+        ...
+    },
+    progressive: {
+        ...
+    },
+    perfect: {
+        ...    
+    },
+    perfect_subjunctive: {
+        ...   
+    }
+
+}

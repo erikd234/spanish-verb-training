@@ -1,0 +1,11 @@
+{
+  "python.linting.pylanceEnabled": false,
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "python.testing.pytestArgs": [
+    "tests"
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true,
+ 
+}
