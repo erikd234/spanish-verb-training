@@ -1,8 +1,5 @@
 """
-    Web crawler that gets the verb deck data from spanish dictionary for a given verb.z
-    Using beutiful soup for parsing HTML 
-
-    see https://www.crummy.com/software/BeautifulSoup
+    Class for web scrawler which gets web pages from a given URL. 
 """
 
 import requests
