@@ -1,0 +1,198 @@
+{
+    "Indicative": {
+        "Present": {
+            "yo": "soy",
+            "tú": "eres",
+            "él/ella/Ud.": "es",
+            "nosotros": "somos",
+            "vosotros": "sois",
+            "ellos/ellas/Uds.": "son"
+        },
+        "Preterite": {
+            "yo": "fui",
+            "tú": "fuiste",
+            "él/ella/Ud.": "fue",
+            "nosotros": "fuimos",
+            "vosotros": "fuisteis",
+            "ellos/ellas/Uds.": "fueron"
+        },
+        "Imperfect": {
+            "yo": "era",
+            "tú": "eras",
+            "él/ella/Ud.": "era",
+            "nosotros": "éramos",
+            "vosotros": "erais",
+            "ellos/ellas/Uds.": "eran"
+        },
+        "Conditional": {
+            "yo": "sería",
+            "tú": "serías",
+            "él/ella/Ud.": "sería",
+            "nosotros": "seríamos",
+            "vosotros": "seríais",
+            "ellos/ellas/Uds.": "serían"
+        },
+        "Future": {
+            "yo": "seré",
+            "tú": "serás",
+            "él/ella/Ud.": "será",
+            "nosotros": "seremos",
+            "vosotros": "seréis",
+            "ellos/ellas/Uds.": "serán"
+        }
+    },
+    "Subjunctive": {
+        "Present": {
+            "yo": "sea",
+            "tú": "seas",
+            "él/ella/Ud.": "sea",
+            "nosotros": "seamos",
+            "vosotros": "seáis",
+            "ellos/ellas/Uds.": "sean"
+        },
+        "Imperfect": {
+            "yo": "fuera, fuese",
+            "tú": "fueras, fueses",
+            "él/ella/Ud.": "fuera, fuese",
+            "nosotros": "fuéramos, fuésemos",
+            "vosotros": "fuerais, fueseis",
+            "ellos/ellas/Uds.": "fueran, fuesen"
+        },
+        "Future": {
+            "yo": "fuere",
+            "tú": "fueres",
+            "él/ella/Ud.": "fuere",
+            "nosotros": "fuéremos",
+            "vosotros": "fuereis",
+            "ellos/ellas/Uds.": "fueren"
+        }
+    },
+    "Imperative": {
+        "Affirmative": {
+            "yo": "-",
+            "tú": "sé",
+            "él/ella/Ud.": "sea",
+            "nosotros": "seamos",
+            "vosotros": "sed",
+            "ellos/ellas/Uds.": "sean"
+        },
+        "Negative": {
+            "yo": "-",
+            "tú": "no seas",
+            "él/ella/Ud.": "no sea",
+            "nosotros": "no seamos",
+            "vosotros": "no seáis",
+            "ellos/ellas/Uds.": "no sean"
+        }
+    },
+    "Progressive": {
+        "Present": {
+            "yo": "estoy siendo",
+            "tú": "estás siendo",
+            "él/ella/Ud.": "está siendo",
+            "nosotros": "estamos siendo",
+            "vosotros": "estáis siendo",
+            "ellos/ellas/Uds.": "están siendo"
+        },
+        "Preterite": {
+            "yo": "estuve siendo",
+            "tú": "estuviste siendo",
+            "él/ella/Ud.": "estuvo siendo",
+            "nosotros": "estuvimos siendo",
+            "vosotros": "estuvisteis siendo",
+            "ellos/ellas/Uds.": "estuvieron siendo"
+        },
+        "Imperfect": {
+            "yo": "estaba siendo",
+            "tú": "estabas siendo",
+            "él/ella/Ud.": "estaba siendo",
+            "nosotros": "estábamos siendo",
+            "vosotros": "estabais siendo",
+            "ellos/ellas/Uds.": "estaban siendo"
+        },
+        "Conditional": {
+            "yo": "estaría siendo",
+            "tú": "estarías siendo",
+            "él/ella/Ud.": "estaría siendo",
+            "nosotros": "estaríamos siendo",
+            "vosotros": "estaríais siendo",
+            "ellos/ellas/Uds.": "estarían siendo"
+        },
+        "Future": {
+            "yo": "estaré siendo",
+            "tú": "estarás siendo",
+            "él/ella/Ud.": "estará siendo",
+            "nosotros": "estaremos siendo",
+            "vosotros": "estaréis siendo",
+            "ellos/ellas/Uds.": "estarán siendo"
+        }
+    },
+    "Perfect": {
+        "Present": {
+            "yo": "he sido",
+            "tú": "has sido",
+            "él/ella/Ud.": "ha sido",
+            "nosotros": "hemos sido",
+            "vosotros": "habéis sido",
+            "ellos/ellas/Uds.": "han sido"
+        },
+        "Preterite": {
+            "yo": "hube sido",
+            "tú": "hubiste sido",
+            "él/ella/Ud.": "hubo sido",
+            "nosotros": "hubimos sido",
+            "vosotros": "hubisteis sido",
+            "ellos/ellas/Uds.": "hubieron sido"
+        },
+        "Past": {
+            "yo": "había sido",
+            "tú": "habías sido",
+            "él/ella/Ud.": "había sido",
+            "nosotros": "habíamos sido",
+            "vosotros": "habíais sido",
+            "ellos/ellas/Uds.": "habían sido"
+        },
+        "Conditional": {
+            "yo": "habría sido",
+            "tú": "habrías sido",
+            "él/ella/Ud.": "habría sido",
+            "nosotros": "habríamos sido",
+            "vosotros": "habríais sido",
+            "ellos/ellas/Uds.": "habrían sido"
+        },
+        "Future": {
+            "yo": "habré sido",
+            "tú": "habrás sido",
+            "él/ella/Ud.": "habrá sido",
+            "nosotros": "habremos sido",
+            "vosotros": "habréis sido",
+            "ellos/ellas/Uds.": "habrán sido"
+        }
+    },
+    "Perfect Subjunctive": {
+        "Present": {
+            "yo": "haya sido",
+            "tú": "hayas sido",
+            "él/ella/Ud.": "haya sido",
+            "nosotros": "hayamos sido",
+            "vosotros": "hayáis sido",
+            "ellos/ellas/Uds.": "hayan sido"
+        },
+        "Past": {
+            "yo": "hubiera sido, hubiese sido",
+            "tú": "hubieras sido, hubieses sido",
+            "él/ella/Ud.": "hubiera sido, hubiese sido",
+            "nosotros": "hubiéramos sido, hubiésemos sido",
+            "vosotros": "hubierais sido, hubieseis sido",
+            "ellos/ellas/Uds.": "hubieran sido, hubiesen sido"
+        },
+        "Future": {
+            "yo": "hubiere sido",
+            "tú": "hubieres sido",
+            "él/ella/Ud.": "hubiere sido",
+            "nosotros": "hubiéremos sido",
+            "vosotros": "hubiereis sido",
+            "ellos/ellas/Uds.": "hubieren sido"
+        }
+    }
+}
